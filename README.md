@@ -16,8 +16,12 @@ Importances are;
 -Scalability: Ensures software systems can grow and adapt to increasing user demands without compromising performance
 
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
+Structured Programming - Introduced disciplined coding practices, emphasizing modularity and reducing complexity through clear, logical program structures like loops and conditionals
+
+Object-Oriented Programming - This revolutionized software development by organizing code into reusable objects, encapsulating data and behavior, promoting code reuse, and improving maintainability
+
+Agile Methodology - Shifted focus to iterative development, emphasizing collaboration, flexibility, and rapid delivery, enabling teams to respond quickly to changing requirements and improve product quality
 
 
 List and briefly explain the phases of the Software Development Life Cycle.

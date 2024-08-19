@@ -25,6 +25,17 @@ Agile Methodology - Shifted focus to iterative development, emphasizing collabor
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+1.Requirement Analysis - Involves gathering and defining the functional and non-functional requirements of the software, as well as customer needs to understand what the system must achieve.
+
+2.System Design- This step involves creating architectural and detailed designs, outlining the system's structure, components, interfaces, and data flow.
+
+3.Implementation - Involves writing and compiling the actual code based on the design specifications to build the software.
+
+4.Testing - This stage involves systematically evaluating the software to identify and fix defects, ensuring it meets the specified requirements and functions correctly.
+
+5.Deployment - The software is released to the production environment where it becomes accessible to end-users.
+
+6.Maintenance - This is an ongoing process of updating, enhancing, and fixing the software after deployment to adapt to changing needs and resolve issues.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.

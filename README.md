@@ -39,7 +39,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Comparison:
+Structured Process - Both Waterfall and Agile are systematic approaches to software development, with defined phases and deliverables.
+Focus on Quality - Both methodologies aim to deliver high-quality software, though they approach it differently.
+Contrast:
+Flexibility - Waterfall is linear and sequential, with each phase completed before moving to the next, making it rigid. Agile is iterative and incremental, allowing for changes and refinements throughout the development process.
+Timeline - Waterfall requires a complete project plan upfront, with a longer time to delivery. Agile delivers smaller, functional increments quickly, with continuous feedback and adaptation.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
